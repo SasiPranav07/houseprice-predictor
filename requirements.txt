@@ -1,5 +1,19 @@
+<<<<<<< HEAD
 Flask
 gunicorn
 pandas==1.5.3
 scikit-learn
 numpy
+=======
+streamlit==1.36.0
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.0
+matplotlib==3.9.0
+seaborn==0.13.2
+plotly==5.22.0
+xgboost==2.0.3
+lightgbm==4.4.0
+joblib==1.4.2
+scipy==1.14.0 
+>>>>>>> 5c4eebf (🚀 Updated House Price Predictor app with full Streamlit flow and modular components)
